@@ -184,7 +184,7 @@ if (isset($_POST["kirim"])) {
           <input name="keyword" class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
           <button name="cari" class="btn btn-outline-primary" type="submit">Search</button>
         </form>
-        <a href="loguot.php"
+        <a href="index.php"
           style="background-color:blue; color:white; text-decoration:none;padding:10px;border-radius:5px;"
           class="ms-5">Logout</a>
       </div>
